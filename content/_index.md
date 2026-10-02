@@ -20,7 +20,7 @@ agents alongside [Meshery](https://meshery.io/) — the open source cloud native
 
 This is just a development page that shows during the build process. The development process is extraordinarily simple - you can start building it out bit by bit or dive right in.
 
-When published, your Academy will look like ([https://platform.tata-consulting.co.uk/academy/](https://platform.tata-consulting.co.uk/academy/) and will feature **Learning Paths, Challenges, and Certifications** that are not set to `draft: true` in their front matter.)
+When published, your Academy will look like [https://platform.tata-consulting.co.uk/academy/](https://platform.tata-consulting.co.uk/academy/) and will feature **Learning Paths, Challenges, and Certifications** that are not set to `draft: true` in their front matter.
 
 It provides structured, Markdown-authored curricula with hands-on practice and assessments. Content is organized hierarchically and supports rich media.
 
