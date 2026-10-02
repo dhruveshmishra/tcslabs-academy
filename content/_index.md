@@ -22,7 +22,7 @@ This is just a development page that shows during the build process. The develop
 
 When published, your Academy will look like [https://platform.tata-consulting.co.uk/academy/](https://platform.tata-consulting.co.uk/academy/) and will feature **Learning Paths, Challenges, and Certifications** that are not set to `draft: true` in their front matter.
 
-It provides structured, Markdown-authored curricula with hands-on practice and assessments. Content is organized hierarchically and supports rich media.
+It provides structured, Markdown-authored curricula with hands-on practice and assessments. Content is organized hierarchically and supports rich media. 
 
 #### Build Process
 
